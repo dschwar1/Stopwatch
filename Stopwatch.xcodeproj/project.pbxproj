@@ -12,6 +12,8 @@
 		2A3DB6E621389658002876EB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2A3DB6E421389658002876EB /* Main.storyboard */; };
 		2A3DB6E821389659002876EB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2A3DB6E721389659002876EB /* Assets.xcassets */; };
 		2A3DB6EB21389659002876EB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2A3DB6E921389659002876EB /* LaunchScreen.storyboard */; };
+		2A3DB6F321389E48002876EB /* Stopwatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A3DB6F221389E48002876EB /* Stopwatch.swift */; };
+		2A42BA6E213CAB3B008DEF6D /* guilherme-stecanella-678677-unsplash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2A42BA6D213CAB3B008DEF6D /* guilherme-stecanella-678677-unsplash.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		2A3DB6E721389659002876EB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2A3DB6EA21389659002876EB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2A3DB6EC21389659002876EB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2A3DB6F221389E48002876EB /* Stopwatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stopwatch.swift; sourceTree = "<group>"; };
+		2A42BA6D213CAB3B008DEF6D /* guilherme-stecanella-678677-unsplash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "guilherme-stecanella-678677-unsplash.jpg"; path = "../../../../Downloads/guilherme-stecanella-678677-unsplash.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +44,7 @@
 			children = (
 				2A3DB6DF21389658002876EB /* Stopwatch */,
 				2A3DB6DE21389658002876EB /* Products */,
+				2A42BA6D213CAB3B008DEF6D /* guilherme-stecanella-678677-unsplash.jpg */,
 			);
 			sourceTree = "<group>";
 		};
@@ -57,6 +62,7 @@
 				2A3DB6E021389658002876EB /* AppDelegate.swift */,
 				2A3DB6E221389658002876EB /* ViewController.swift */,
 				2A3DB6E421389658002876EB /* Main.storyboard */,
+				2A3DB6F221389E48002876EB /* Stopwatch.swift */,
 				2A3DB6E721389659002876EB /* Assets.xcassets */,
 				2A3DB6E921389659002876EB /* LaunchScreen.storyboard */,
 				2A3DB6EC21389659002876EB /* Info.plist */,
@@ -125,6 +131,7 @@
 				2A3DB6EB21389659002876EB /* LaunchScreen.storyboard in Resources */,
 				2A3DB6E821389659002876EB /* Assets.xcassets in Resources */,
 				2A3DB6E621389658002876EB /* Main.storyboard in Resources */,
+				2A42BA6E213CAB3B008DEF6D /* guilherme-stecanella-678677-unsplash.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -136,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2A3DB6E321389658002876EB /* ViewController.swift in Sources */,
+				2A3DB6F321389E48002876EB /* Stopwatch.swift in Sources */,
 				2A3DB6E121389658002876EB /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
